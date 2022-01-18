@@ -1,0 +1,30 @@
+---
+title: "Chris Varghese"
+image: "cv.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/chris-varghese-3b499912a/"
+  - label: Twitter
+    url: "https://twitter.com/chrisvarghese98"
+  - label: GitHub
+    url: "https://https://github.com/kriz98"
+  - label: Email
+    url: "mailto:cvar706@aucklanduni.ac.nz"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a trainee intern at Auckland District Health Board aspiring towards a academic surgery career. My research interests include gastrointestinal surgery and physiology, medical devices, statistics, and student- and trainee-led collaborative research.
+
+## Education
+
+**University of Auckland** | Auckland, NZ
+
+BMedSc(Hons) with focus on colorectal surgery and medical devices | Jan 2019 - December 2019
+
+## Experience
+
+**Department of Surgery** | Student researcher | January 2018 - Present
+
